@@ -31,7 +31,7 @@ humantime = "2"
 instant = { version = "0.1", features = ["now", "wasm-bindgen"] }
 lazy_static = "1.4"
 progress_string = "0.2"
-rand = "0.8"
+rand = "0.10"
 rand_distr = "0.4"
 regex = "1.8"
 sha2 = "0.10.6"
